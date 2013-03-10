@@ -1,0 +1,98 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD// XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/199/xhtml"xml:lang="en"lang="en"><html>
+
+<head>
+
+ <!-- Ini baris komentar, tidak diproses-->
+ <title> Latihan HTML </title>
+<head/>
+
+<body>
+ <p><font color="yellow">
+ <p align="center">
+WELCOME TO MY WEB</font>
+<hr/>
+
+<p align="center">
+ <!--menggunakan path relative-->
+ <img src="Copy of farouq.jpg"/>
+
+<p align="center"><font color="red">
+BIODATA</font>
+<br/>
+Nama : Muhammad Farouq Ardiansyah
+<br/>
+ NIM  : 110533430576
+<br/>
+ Jurusan Teknik Elektro
+<br/>
+ Prodi S1 Pendidikan Teknik Informatika 2011 off C
+<br/>
+ Fakultas Teknik - Universitas Negeri Malang
+<br/>
+
+<hr/>
+
+
+<p align="Left"><font color="red">
+ RIWAYAT PENDIDIKAN</font>
+<br/>
+<ol>
+<li>TK Kartika</li>
+<li>SDN Kampung Dalem 1</li>
+<li>SMPN 3 Tulungagung</li>
+<li>SMAN 1 Gondang Tulungagung</li>
+<li>UNIVERSITAS NEGERI MALANG - S1 PTI OFFERING C 2011</li>
+</ol>
+
+<hr>
+<p align="Left"><font color="red">
+ PENGALAMAN ORGANISASI</font>
+<br/>
+<ol>
+<li>Majalah Sekolah "KREATIF" SMAN 1 Gondang Tulungagung</li>
+<li>Himpunan Mahasiswa Elektro divisi Workshop Elektro 2011-2013</li>
+</ol>
+
+
+<hr>
+<p align="Left"><font color="red">
+ PRESTASI</font>
+<br/>
+<ol>
+<li>Juara 1 Lomba Mading 3D tingkat SMA se-Kabupaten</li>
+<li>Juara 1 Gambar Karikatur "NAFAS" Fakultas Teknik Universitas Negeri Malang</li>
+</ol>
+  
+<hr>
+ <p align ="center"><font color="black">
+ Awali setiap aktivitas dengan do'a, semoga mendapat berkah dan kemudahan dari Allah SWT.
+ Sesungguhnya Allah tidak akan mengubah nasib seseorang apabila ia tidak mau berusaha.
+ Belajar, berdoa, disiplin dan berusaha adalah kunci dari kesuksesan.
+ Jadilah dirimu, sebaik baiknya dirimu sendiri.</font>
+
+ <hr/> 
+
+ <!--memberi background di body-->
+ 
+ <body background="img36.jpg" >
+
+ <hr/>
+ <a href="http://google.co.id" title="Search with Google">
+ <p align="center">
+ <img src="google2 copy.png" border="0"/>
+ </a>
+
+ <br/>
+ <a href="mailto:"farouq.ardiansyah@yahoo.com >farouq.ardiansyah@yahoo.com</a>
+
+ <br/>
+ <a href="mailto:"mfarouq19@yahoo.com >mfarouq19@yahoo.com</a>
+ 
+
+ 
+ </body>
+
+ </html>
